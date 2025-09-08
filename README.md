@@ -16,7 +16,9 @@ Basic CNN architecture
 ###### Session-6: Transformer
 ---
 ###### FINAL PROJECT
-- LLaDA：[]
-
+- LLaDA：Large Language Diffusion Models
+    - [arXiv](https://arxiv.org/abs/2502.09992)
+    - [github](https://github.com/ML-GSAI/LLaDA)
+    
 In this Final project, we planned to fine-tune a LLaDa-Indtruct 8B model and evaluate the post-trained model on a specificated finacial datasets. In the original paper, an essential phenomenon was found that the post-trained model--LLaDA-Instruct 8B performed even worse in some benchmarks like MMLU. The author attributed this to the suboptimal post training datasets. Thus, we aim to ehhance its performance on certain domain using SFT as well. The project is based on CoLab.
 
